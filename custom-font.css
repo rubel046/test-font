@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'DSEG7ModernMini-Bold-Custom';
+    src: url("./DSEG7ModernMini-Bold.ttf");
+}
+
+.font-DSEG7ModernMini-Bold-Custom {
+    font-family: 'DSEG7ModernMini-Bold-Custom', sans-serif;
+}
